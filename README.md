@@ -4,4 +4,4 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/u04khlr803f43qst/branch/master?svg=true)](https://ci.appveyor.com/project/TheCherno/sparky/branch/master)
 Sparky is a cross-platform, high performance game engine currently in development. This readme will be updated with more info eventually.
-#new peson hi im caleb and i well make  Sparky for now on..
+hi im caleb and i well make  Sparky for now on..
